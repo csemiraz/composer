@@ -1,1 +1,14 @@
 
+1. initial a composer
+# composer init
+2. composer update 
+# comoser update
+3. First Package Install
+# composer require monolog/monolog
+
+
+
+
+
+
+////  After completing every step: composer should be updated
